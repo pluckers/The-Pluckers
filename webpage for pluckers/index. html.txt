@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Moore Creek Pluckers</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #4CAF50;
+            color: white;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        section {
+            margin: 20px 0;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #4CAF50;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        .contact-info {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>The Moore Creek Pluckers</h1>
+    <p>Bringing you the best of 60s, 70s, 80s hits and Country music!</p>
+</header>
+
+<section>
+    <img src="pluckercartoon.jpg" alt="The Moore Creek Pluckers">
+    <h2>About Us</h2>
+    <p>The Moore Creek Pluckers are a group of passionate musicians who love to bring joy through music! We specialize in classic hits from the 60s, 70s, and 80s, alongside beautiful Country music. Our repertoire features beloved songs from legendary artists such as The Eagles, Roy Orbison, Ed Sheeran, The Rolling Stones, Lee Kernaghan, and The Beatles.</p>
+    <p>We perform at house concerts, charity events, and fundraisers, dedicating our time and talent for the love of music and community. <strong>We do not charge for our concerts</strong>; we believe in the power of music for mental health and the joy it brings to others.</p>
+</section>
+
+<section>
+    <h2>Meet the Band</h2>
+    <ul>
+        <li><strong>Ross:</strong> Drums</li>
+        <li><strong>Graham:</strong> Lead Guitar & Vocals</li>
+        <li><strong>Peter:</strong> Electric Guitar</li>
+        <li><strong>Mal:</strong> Vocals & Rhythm Guitar</li>
+        <li><strong>Gordon:</strong> Harmonica & Acoustic Guitar</li>
+        <li><strong>Norm:</strong> Bass & Percussion</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Get in Touch</h2>
+    <div class="contact-info">
+        <p>We’d love to hear from you! For inquiries about bookings or to learn more about us, feel free to reach out:</p>
+        <p><strong>Email:</strong> <a href="mailto:normnett@gmail.com">normnett@gmail.com</a></p>
+        <p><strong>Phone:</strong> 0459 546 449</p>
+    </div>
+</section>
+
+<footer>
+    <p>© 2024 The Moore Creek Pluckers | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
